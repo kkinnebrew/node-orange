@@ -1,8 +1,9 @@
 {
-  "name": "OrangeServer",
+  "name": "orange",
   "description": "A lightweight backend for the Orange Framework in NodeJS",
   "version": "1.0.0",
   "author": "Kevin Kinnebrew",
+  "main": "lib/orange.js",
   "repository": {
     "type": "git",
     "url": "ssh://git@kevinkinnebrew.com:443/~/Repositories/git-server.git"
