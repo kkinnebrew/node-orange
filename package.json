@@ -1,7 +1,7 @@
 {
   "name": "orange",
   "description": "A lightweight backend for the Orange Framework in NodeJS",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Kevin Kinnebrew",
   "main": "lib/orange.js",
   "repository": {
