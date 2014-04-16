@@ -1,4 +1,4 @@
 orangejs
 ========
 
-A lightweight framework for build web services in NodeJS.
+Lightweight service helpers for building web services in NodeJS.
